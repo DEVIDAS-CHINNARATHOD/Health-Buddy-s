@@ -1,2 +1,2 @@
 # medimate
-Created by Rork
+Created by Health Buddies
