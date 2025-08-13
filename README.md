@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Health Buddy
 
 Health Buddy is a modern, cross-platform health tracking and management app built with Expo and React Native. It helps users monitor their health, manage medications, analyze health data, and connect with medical professionals—all in a beautiful, user-friendly interface.
@@ -48,3 +49,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 This project is licensed under the MIT License.
 
+=======
+# medimate
+Created by Health Buddies
+>>>>>>> a072e21bab8bfb14c666df5c596de9e5c6c82a37
