@@ -2,6 +2,50 @@
 
 Madimate is a comprehensive, cross-platform health tracking and management application built with Expo and React Native. It empowers users to monitor their health metrics, manage medications, visualize analytics, and connect with healthcare professionals through an intuitive, modern interface.
 
+## 📱 App Screenshots
+
+Here are the actual screenshots from the Madimate app showing the user interface and key features:
+
+### 🏠 Dashboard
+![Dashboard](assets/images/WhatsApp%20Image%202025-08-13%20at%2018.52.25_c743d4d2.jpg)
+*The main dashboard showing health metrics, daily activity, and quick access to key features*
+
+### 💊 CURA - Medication Management
+![CURA](assets/images/WhatsApp%20Image%202025-08-13%20at%2018.52.25_c7cdf846.jpg)
+*Comprehensive medication tracking with dosage reminders and prescription history*
+
+### 📈 Healthyics - Analytics
+![Healthyics](assets/images/WhatsApp%20Image%202025-08-13%20at%2018.52.26_248cd509.jpg)
+*Advanced health analytics with visual trends and predictive insights*
+
+### 💬 MedTalk - Community
+![MedTalk](assets/images/WhatsApp%20Image%202025-08-13%20at%2018.52.26_a980baad.jpg)
+*Secure community platform for health discussions and expert consultations*
+
+### 👤 User Profile
+![Profile](assets/images/WhatsApp%20Image%202025-08-13%20at%2018.52.26_aeb942b4.jpg)
+*Personal health profile with settings and preferences*
+
+### 📊 Health Metrics
+![Metrics](assets/images/WhatsApp%20Image%202025-08-13%20at%2018.52.27_053feffe.jpg)
+*Detailed health metrics tracking with real-time updates*
+
+### 🔔 Notifications
+![Notifications](assets/images/WhatsApp%20Image%202025-08-13%20at%2018.52.27_61b9726f.jpg)
+*Smart medication reminders and health alerts*
+
+### ⚙️ Settings
+![Settings](assets/images/WhatsApp%20Image%202025-08-13%20at%2018.52.28_71c16ce4.jpg)
+*Comprehensive app settings and customization options*
+
+### 📋 Appointment Booking
+![Appointments](assets/images/WhatsApp%20Image%202025-08-13%20at%2018.52.28_79455cf7.jpg)
+*Easy appointment scheduling with healthcare providers*
+
+### 🏥 Treatment Plans
+![Treatment Plans](assets/images/WhatsApp%20Image%202025-08-13%20at%2018.52.28_c239f9a7.jpg)
+*Comprehensive treatment plan management and progress tracking*
+
 ## 🌟 Key Features
 
 - **📊 Smart Dashboard**: Real-time health metrics, activity tracking, and personalized insights
