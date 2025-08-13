@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Health Tracker App UI",
-    "slug": "health-tracker-app-ui",
+    "name": "MEDIMATE Clone 5",
+    "slug": "health-tracker-app-ui-h366xvta-toqchqix-os0jh0jf-dnz4d1ox-x0jr618d-rynj4mvx",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -15,14 +15,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "app.rork.health-tracker-app-ui"
+      "bundleIdentifier": "app.rork.health-tracker-app-ui-h366xvta-toqchqix-os0jh0jf-dnz4d1ox-x0jr618d-rynj4mvx"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "app.rork.health-tracker-app-ui"
+      "package": "app.rork.health-tracker-app-ui-h366xvta-toqchqix-os0jh0jf-dnz4d1ox-x0jr618d-rynj4mvx"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"

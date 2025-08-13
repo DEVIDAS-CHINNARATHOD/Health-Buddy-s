@@ -3,9 +3,9 @@
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
-    "start": "bunx rork start -p isg5cy52hs987acsv682u --tunnel",
-    "start-web": "bunx rork start -p isg5cy52hs987acsv682u --web --tunnel",
-    "start-web-dev": "DEBUG=expo* bunx rork start -p isg5cy52hs987acsv682u --web --tunnel"
+    "start": "bunx rork start -p udogq716dheulrynj4mvx --tunnel",
+    "start-web": "bunx rork start -p udogq716dheulrynj4mvx --web --tunnel",
+    "start-web-dev": "DEBUG=expo* bunx rork start -p udogq716dheulrynj4mvx --web --tunnel"
   },
   "dependencies": {
     "@expo/vector-icons": "^14.1.0",
