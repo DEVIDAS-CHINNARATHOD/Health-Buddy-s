@@ -1,7 +1,7 @@
 
-# Health Buddy
+# Medimate
 
-Health Buddy is a modern, cross-platform health tracking and management app built with Expo and React Native. It helps users monitor their health, manage medications, analyze health data, and connect with medical professionals—all in a beautiful, user-friendly interface.
+Medimate is a modern, cross-platform health tracking and management app built with Expo and React Native. It helps users monitor their health, manage medications, analyze health data, and connect with medical professionals—all in a beautiful, user-friendly interface.
 
 ## Features
 
